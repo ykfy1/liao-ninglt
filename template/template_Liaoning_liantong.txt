@@ -16,3 +16,7 @@ http://ipipip/rtp/232.0.0.168:1234
 http://ipipip/rtp/232.0.0.156:1234
 #EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://www.yangfeiyue.cn/tv/沈阳新闻.png" group-title="卫视频道",沈阳新闻
 http://ipipip/rtp/232.0.0.206:1234
+#EXTINF:-1 tvg-name="盘锦都市" tvg-logo="https://www.yangfeiyue.cn/tv/盘锦都市.png" group-title="卫视频道",盘锦都市
+http://ipipip/rtp/232.0.0.183:1234
+#EXTINF:-1 tvg-name="抚顺综合" tvg-logo="https://www.yangfeiyue.cn/tv/抚顺综合.png" group-title="卫视频道",抚顺综合
+http://ipipip/rtp/232.0.0.253:1234
